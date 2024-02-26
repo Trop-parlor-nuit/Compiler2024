@@ -1,5 +1,5 @@
-# 2022Fall NKUCS Course - Principle of Compilers
+# 2024编译初步框架
 
-QQ和沈佬共同完成的编译原理大作业，样例通过148/151
+样例通过148/151
 
 实现了mem2Reg、控制流优化及常量传播
